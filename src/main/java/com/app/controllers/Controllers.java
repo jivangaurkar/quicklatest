@@ -8,7 +8,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
-import org.apache.tiles.request.Request;
+//import org.apache.tiles.request.Request;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpRequest;
 import org.springframework.stereotype.Controller;
@@ -22,7 +22,7 @@ import com.app.pojo.Candidate;
 import com.app.pojo.Company;
 import com.app.pojo.Interviewdetail;
 import com.app.services.Service;
-import com.mysql.fabric.Response;
+//import com.mysql.fabric.Response;
 
 @Controller
 public class Controllers {
