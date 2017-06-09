@@ -88,6 +88,11 @@
 
 </dependency>
 
+	<dependency>
+		<groupId>g1</groupId>
+		<artifactId>g1</artifactId>
+		<version>1</version>
+	</dependency>
 </dependencies>
 
 
